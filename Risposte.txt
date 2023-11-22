@@ -46,3 +46,12 @@ Spiega la differenza tra git clone e git pull.
 
 La differenza tra i due è che: il git clone ti fa copiare tutto ciò che hai nella repository indipendentemente da tutte le modifiche che sono state fatte all'interno della repository, mentre il git pull serve si per trasferire i file e le sue modifiche ma non crea un clone preciso della repository, ad esempio se io ho resettato in locale una commit e online però non avevo ancora fatto nessuna modifica, se uso il git pull quest'ultimo mi riporta anche la commit che avevo resettato precedentemente.
 
+Risposta 8 
+
+Descrivi cosa sono i rami di sviluppo in GIT (branches). Spiega inoltre come si
+creano, come ci si sposta in un ramo esistente, come si uniscono le modifiche
+di un ramo in un altro e come vedere il ramo corrente, attenendoti ai comandi
+visti in classe.
+
+I branch sono dei rami che si staccano dal branch principale e che permetto di lavorare in maniera isolata rispetto al branch principale in maniera da non creare conflitti.
+Per creare un branch utilizzo il comando (git branch  [Nome del branch]), per unire il branch secondario a quello principale si utilizza il comando (git merge [nome branch]), e per cambiare brench si utilizza il comando (git checkout -b [Nome dl branch] ), e per vedere su che ramo sei puoi anche fare un (git status), che ti mostra il nome del branch su cui ti trovi.
