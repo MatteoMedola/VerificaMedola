@@ -18,6 +18,7 @@ Come descriveresti il workflow dei comandi di GIT?
 
 git add -> git commit -> git push
 
+
 Risposta 4
 
 Qual è il comando da utilizzare per vedere l’elenco di tutte le commit del
@@ -31,5 +32,11 @@ Scrivi il comando per effettuare il rollback ad una commit precedente
 
 Per fare il rollback di una commit utiliziamo il comando (git reset --hard [hash code della commit di cui fare il rollback]
 
+Risposta 6
 
+Scrivi due motivazioni per giustificare l’utilizzo di GIT.
+
+Due motivi per utilizzare GIT sono:
+1 Si può lavorare in gruppo su un unico progetto senza che nessuno dia fastidio a nessun altro
+2 Per la facilità con cui si può utilizzare
 
