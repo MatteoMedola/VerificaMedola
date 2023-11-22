@@ -67,3 +67,20 @@ Produzione: viene scritto il codice del programma, e viene cercato di farlo funz
 Riutilizzo: la possibilità da parte di altri programmatori di utilizzare pezzi di codice già esistenti in nuovi progetti
 Manutenzione: ovvero la possibilità di mantenere il progetto valido e funzionante nel tempo
 
+Risposta 10 
+
+Spiega cosa è il ciclo di vita del software e le fasi in cui si suddivide.
+
+Il ciclo di vita di un software non sono nient'altro che ole fasi che accompagnano la vita di un software, e queste fasi generano degli output. Nella vita di un software abbiamo 5 fasi:
+
+1 Analisi: viene verificata la fattibilità del progetto, ovvero se è realizzabile in base ai tempi e ai costi,viene poi verificati requisiti che questo progetto deve soddisfare,
+	viene definita l'interfaccia con l'utente, viene definita l'architettura del sistema, i dati che devono essere utilizzati all'interno del progetto e infine i test per 
+	controllare che il software sia utilizzabile.
+
+2 Progettazione: si divide in: Architettura di progetto: spazio dove vengono organizzate le componenti, e Disegno di Dialogo: dove viene definita l'implementazione delle componenti.
+
+3 Realizzazione : si pasa dal progetto a una serie di programmi, a cui dopo si fanno i test
+
+4 Invio in produzione: ovvero il software viene consegnato e installato al cliente, che può cominciare ad utilizzarlo
+
+5 Manutenzione: che è di 3 tipi: 1 manutenzione correttiva: serve per risolvere degli errori nel codice, 2 manutenzione adattiva: serve per modificare il programma in base a delle condizioni che si presentano, 3 manutenzione evolutiva: serve per modificare il codice per mantenerlo valido nel tempo.
