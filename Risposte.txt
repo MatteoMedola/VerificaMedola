@@ -25,5 +25,11 @@ branch in cui ci si trova e i loro hashcode?
 
 (git log), è il comando da utilizzare 
 
+Risposta 5
+
+Scrivi il comando per effettuare il rollback ad una commit precedente
+
+Per fare il rollback di una commit utiliziamo il comando (git reset --hard [hash code della commit di cui fare il rollback]
+
 
 
