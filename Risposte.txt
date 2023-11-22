@@ -18,3 +18,12 @@ Come descriveresti il workflow dei comandi di GIT?
 
 git add -> git commit -> git push
 
+Risposta 4
+
+Qual è il comando da utilizzare per vedere l’elenco di tutte le commit del
+branch in cui ci si trova e i loro hashcode?
+
+(git log), è il comando da utilizzare 
+
+
+
