@@ -40,3 +40,9 @@ Due motivi per utilizzare GIT sono:
 1 Si può lavorare in gruppo su un unico progetto senza che nessuno dia fastidio a nessun altro
 2 Per la facilità con cui si può utilizzare
 
+Risposta 7
+
+Spiega la differenza tra git clone e git pull.
+
+La differenza tra i due è che: il git clone ti fa copiare tutto ciò che hai nella repository indipendentemente da tutte le modifiche che sono state fatte all'interno della repository, mentre il git pull serve si per trasferire i file e le sue modifiche ma non crea un clone preciso della repository, ad esempio se io ho resettato in locale una commit e online però non avevo ancora fatto nessuna modifica, se uso il git pull quest'ultimo mi riporta anche la commit che avevo resettato precedentemente.
+
