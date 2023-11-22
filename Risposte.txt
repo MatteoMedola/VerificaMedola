@@ -55,3 +55,15 @@ visti in classe.
 
 I branch sono dei rami che si staccano dal branch principale e che permetto di lavorare in maniera isolata rispetto al branch principale in maniera da non creare conflitti.
 Per creare un branch utilizzo il comando (git branch  [Nome del branch]), per unire il branch secondario a quello principale si utilizza il comando (git merge [nome branch]), e per cambiare brench si utilizza il comando (git checkout -b [Nome dl branch] ), e per vedere su che ramo sei puoi anche fare un (git status), che ti mostra il nome del branch su cui ti trovi.
+
+Risposta 9
+
+Spiega di cosa si occupa l’ingegneria del software.
+
+L'ingegneria del software è quel ramo dell'informatica che si occupa della progettazione, produzione, riustilizzo e manutenzione di un software applicativo, in maniera da ridurne le spese e aumentarne la qualità. 
+Vediamo nel dettaglio:
+Progettazione: il riconoscimento di un problema, e l'idea di come risolverlo
+Produzione: viene scritto il codice del programma, e viene cercato di farlo funzionare
+Riutilizzo: la possibilità da parte di altri programmatori di utilizzare pezzi di codice già esistenti in nuovi progetti
+Manutenzione: ovvero la possibilità di mantenere il progetto valido e funzionante nel tempo
+
